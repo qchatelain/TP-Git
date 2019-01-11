@@ -1,5 +1,5 @@
 
-# ello Leo B !
+# ello Leo !
 # Hello quentin !
 ##Salut ! 
 ## We're trying git at School !
